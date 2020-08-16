@@ -1,1 +1,1 @@
-This is an index file for learning branching.
+This is an file which contains index for learning branching.
